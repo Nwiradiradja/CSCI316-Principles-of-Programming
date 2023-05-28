@@ -1,0 +1,133 @@
+Next Token is: IDENTIFIER, Next Lexeme is: PROGRAM
+Next Token is: IDENTIFIER, Next Lexeme is: ChangeMaker
+Next Token is: UNKNOWN, Next Lexeme is: ;
+Next Token is: UNKNOWN, Next Lexeme is: (
+Next Token is: MUL_OP, Next Lexeme is: *
+Next Token is: UNKNOWN, Next Lexeme is:  
+Next Token is: IDENTIFIER, Next Lexeme is: Make
+Next Token is: IDENTIFIER, Next Lexeme is: change
+Next Token is: null, Next Lexeme is: for
+Next Token is: UNKNOWN, Next Lexeme is:  
+Next Token is: IDENTIFIER, Next Lexeme is: a
+Next Token is: null, Next Lexeme is: do
+Next Token is: IDENTIFIER, Next Lexeme is: llar
+Next Token is: MUL_OP, Next Lexeme is: *
+Next Token is: UNKNOWN, Next Lexeme is: )
+Next Token is: IDENTIFIER, Next Lexeme is: CONST
+Next Token is: IDENTIFIER, Next Lexeme is: remove
+Next Token is: IDENTIFIER, Next Lexeme is: from
+Next Token is: IDENTIFIER, Next Lexeme is: Dollar
+Next Token is: ASSIGN_OP, Next Lexeme is: :=
+Next Token is: UNKNOWN, Next Lexeme is:  
+Next Token is: NUMBER, Next Lexeme is: 100
+Next Token is: UNKNOWN, Next Lexeme is: ;
+Next Token is: IDENTIFIER, Next Lexeme is: VAR
+Next Token is: IDENTIFIER, Next Lexeme is: Cost
+Next Token is: UNKNOWN, Next Lexeme is: :
+Next Token is: IDENTIFIER, Next Lexeme is: INTEGER
+Next Token is: UNKNOWN, Next Lexeme is: ;
+Next Token is: IDENTIFIER, Next Lexeme is: Remainder
+Next Token is: UNKNOWN, Next Lexeme is: :
+Next Token is: IDENTIFIER, Next Lexeme is: INTEGER
+Next Token is: IDENTIFIER, Next Lexeme is: Dimes
+Next Token is: EQ_OP, Next Lexeme is: =
+Next Token is: UNKNOWN, Next Lexeme is:  
+Next Token is: IDENTIFIER, Next Lexeme is: INTEGER
+Next Token is: UNKNOWN, Next Lexeme is: ;
+Next Token is: IDENTIFIER, Next Lexeme is: BEGIN
+Next Token is: UNKNOWN, Next Lexeme is: (
+Next Token is: MUL_OP, Next Lexeme is: *
+Next Token is: UNKNOWN, Next Lexeme is:  
+Next Token is: IDENTIFIER, Next Lexeme is: Input
+Next Token is: IDENTIFIER, Next Lexeme is: the
+Next Token is: IDENTIFIER, Next Lexeme is: Cost
+Next Token is: MUL_OP, Next Lexeme is: *
+Next Token is: UNKNOWN, Next Lexeme is: )
+Next Token is: IDENTIFIER, Next Lexeme is: Write
+Next Token is: UNKNOWN, Next Lexeme is: (
+Next Token is: UNKNOWN, Next Lexeme is: '
+Next Token is: IDENTIFIER, Next Lexeme is: Enter
+Next Token is: IDENTIFIER, Next Lexeme is: the
+Next Token is: IDENTIFIER, Next Lexeme is: cost
+Next Token is: null, Next Lexeme is: in
+Next Token is: UNKNOWN, Next Lexeme is:  
+Next Token is: IDENTIFIER, Next Lexeme is: cents
+Next Token is: UNKNOWN, Next Lexeme is: :
+Next Token is: UNKNOWN, Next Lexeme is: '
+Next Token is: UNKNOWN, Next Lexeme is: )
+Next Token is: UNKNOWN, Next Lexeme is: ;
+Next Token is: IDENTIFIER, Next Lexeme is: Read
+Next Token is: UNKNOWN, Next Lexeme is: (
+Next Token is: IDENTIFIER, Next Lexeme is: Cost
+Next Token is: UNKNOWN, Next Lexeme is: )
+Next Token is: UNKNOWN, Next Lexeme is: ;
+Next Token is: UNKNOWN, Next Lexeme is: (
+Next Token is: MUL_OP, Next Lexeme is: *
+Next Token is: UNKNOWN, Next Lexeme is:  
+Next Token is: IDENTIFIER, Next Lexeme is: Make
+Next Token is: IDENTIFIER, Next Lexeme is: the
+Next Token is: IDENTIFIER, Next Lexeme is: Change
+Next Token is: null, Next Lexeme is: in
+Next Token is: UNKNOWN, Next Lexeme is:  
+Next Token is: IDENTIFIER, Next Lexeme is: dimes
+Next Token is: UNKNOWN, Next Lexeme is: )
+Next Token is: IDENTIFIER, Next Lexeme is: Remainder
+Next Token is: ASSIGN_OP, Next Lexeme is: :=
+Next Token is: UNKNOWN, Next Lexeme is:  
+Next Token is: NUMBER, Next Lexeme is: 100
+Next Token is: SUB_OP, Next Lexeme is: -
+Next Token is: UNKNOWN, Next Lexeme is:  
+Next Token is: IDENTIFIER, Next Lexeme is: Cost
+Next Token is: UNKNOWN, Next Lexeme is: ;
+Next Token is: IDENTIFIER, Next Lexeme is: Dimes
+Next Token is: ASSIGN_OP, Next Lexeme is: :=
+Next Token is: UNKNOWN, Next Lexeme is:  
+Next Token is: IDENTIFIER, Next Lexeme is: Remainder
+Next Token is: IDENTIFIER, Next Lexeme is: DIV
+Next Token is: NUMBER, Next Lexeme is: 10
+Next Token is: UNKNOWN, Next Lexeme is: ;
+Next Token is: IDENTIFIER, Next Lexeme is: Remainder
+Next Token is: EQ_OP, Next Lexeme is: =
+Next Token is: UNKNOWN, Next Lexeme is: =
+Next Token is: IDENTIFIER, Next Lexeme is: Remainder
+Next Token is: MOD_OP, Next Lexeme is: %
+Next Token is: UNKNOWN, Next Lexeme is:  
+Next Token is: NUMBER, Next Lexeme is: 10
+Next Token is: UNKNOWN, Next Lexeme is: ;
+Next Token is: IDENTIFIER, Next Lexeme is: Remainder
+Next Token is: EQ_OP, Next Lexeme is: =
+Next Token is: UNKNOWN, Next Lexeme is:  
+Next Token is: IDENTIFIER, Next Lexeme is: Remainder
+Next Token is: IDENTIFIER, Next Lexeme is: MOD
+Next Token is: NUMBER, Next Lexeme is: 5
+Next Token is: UNKNOWN, Next Lexeme is: ;
+Next Token is: IDENTIFIER, Next Lexeme is: IF
+Next Token is: UNKNOWN, Next Lexeme is: (
+Next Token is: IDENTIFIER, Next Lexeme is: Remainder
+Next Token is: EQ_OP, Next Lexeme is: =
+Next Token is: UNKNOWN, Next Lexeme is:  
+Next Token is: NUMBER, Next Lexeme is: 0
+Next Token is: UNKNOWN, Next Lexeme is: )
+Next Token is: IDENTIFIER, Next Lexeme is: THEN
+Next Token is: IDENTIFIER, Next Lexeme is: Write
+Next Token is: UNKNOWN, Next Lexeme is: (
+Next Token is: UNKNOWN, Next Lexeme is: “
+Next Token is: IDENTIFIER, Next Lexeme is: No
+Next Token is: IDENTIFIER, Next Lexeme is: money
+Next Token is: IDENTIFIER, Next Lexeme is: left
+Next Token is: UNKNOWN, Next Lexeme is: ”
+Next Token is: UNKNOWN, Next Lexeme is: )
+Next Token is: IDENTIFIER, Next Lexeme is: ELSE
+Next Token is: IDENTIFIER, Next Lexeme is: Write
+Next Token is: UNKNOWN, Next Lexeme is: (
+Next Token is: IDENTIFIER, Next Lexeme is: Remainder
+Next Token is: UNKNOWN, Next Lexeme is: )
+Next Token is: UNKNOWN, Next Lexeme is: ;
+Next Token is: IDENTIFIER, Next Lexeme is: END
+Next Token is: UNKNOWN, Next Lexeme is: .
+Next Token is: UNKNOWN, Next Lexeme is: (
+Next Token is: MUL_OP, Next Lexeme is: *
+Next Token is: UNKNOWN, Next Lexeme is:  
+Next Token is: IDENTIFIER, Next Lexeme is: ChangeMaker
+Next Token is: MUL_OP, Next Lexeme is: *
+Next Token is: UNKNOWN, Next Lexeme is: )
