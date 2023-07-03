@@ -1,1 +1,1 @@
-# CSCI316-Principles-of-Programming
+# Principles-of-Programming
